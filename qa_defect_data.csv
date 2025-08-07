@@ -1,0 +1,51 @@
+TestCaseID,Module,Status,DefectType,Priority,AssignedTo,ExecutionDate,Duration(mins)
+TC001,Login,Passed,-,-,Clara,2025-08-02,12
+TC002,Login,Passed,-,-,Alice,2025-08-05,18
+TC003,Login,Passed,-,-,Bob,2025-08-02,5
+TC004,Settings,Passed,-,-,David,2025-08-02,19
+TC005,Login,Passed,-,-,Bob,2025-08-06,18
+TC006,Search,Passed,-,-,Bob,2025-08-07,15
+TC007,Payments,Passed,-,-,Alice,2025-08-03,16
+TC008,Login,Passed,-,-,David,2025-08-05,8
+TC009,Dashboard,Failed,Security,Low,Clara,2025-08-07,16
+TC010,Settings,Passed,-,-,Alice,2025-08-01,12
+TC011,Login,Failed,UI Bug,Medium,David,2025-08-03,19
+TC012,Checkout,Passed,-,-,Bob,2025-08-03,16
+TC013,Checkout,Passed,-,-,Alice,2025-08-05,10
+TC014,Search,Passed,-,-,Bob,2025-08-04,17
+TC015,Settings,Passed,-,-,Bob,2025-08-06,15
+TC016,Login,Failed,UI Bug,Medium,Clara,2025-08-04,13
+TC017,Dashboard,Passed,-,-,Clara,2025-08-02,20
+TC018,Settings,Passed,-,-,David,2025-08-02,13
+TC019,Settings,Passed,-,-,Clara,2025-08-06,18
+TC020,Search,Failed,Security,High,Bob,2025-08-05,20
+TC021,Login,Passed,-,-,Alice,2025-08-02,10
+TC022,Payments,Failed,Security,Low,David,2025-08-05,19
+TC023,Dashboard,Passed,-,-,Alice,2025-08-06,8
+TC024,Dashboard,Passed,-,-,Clara,2025-08-07,15
+TC025,Payments,Passed,-,-,Bob,2025-08-04,5
+TC026,Dashboard,Failed,Performance,Medium,Alice,2025-08-07,14
+TC027,Checkout,Failed,Functional,Medium,Bob,2025-08-05,5
+TC028,Payments,Passed,-,-,Alice,2025-08-01,16
+TC029,Login,Failed,Performance,Medium,Bob,2025-08-05,7
+TC030,Payments,Passed,-,-,Alice,2025-08-07,9
+TC031,Payments,Passed,-,-,Bob,2025-08-03,18
+TC032,Payments,Failed,Functional,High,Clara,2025-08-04,19
+TC033,Search,Passed,-,-,Alice,2025-08-03,5
+TC034,Search,Passed,-,-,Bob,2025-08-01,7
+TC035,Login,Failed,UI Bug,Medium,Alice,2025-08-07,15
+TC036,Search,Passed,-,-,Clara,2025-08-06,20
+TC037,Search,Passed,-,-,David,2025-08-02,20
+TC038,Login,Failed,Functional,Low,David,2025-08-03,18
+TC039,Settings,Passed,-,-,Alice,2025-08-06,8
+TC040,Settings,Passed,-,-,Clara,2025-08-07,8
+TC041,Search,Passed,-,-,David,2025-08-02,18
+TC042,Payments,Passed,-,-,Bob,2025-08-07,7
+TC043,Dashboard,Passed,-,-,Alice,2025-08-01,5
+TC044,Payments,Failed,Functional,Medium,David,2025-08-04,11
+TC045,Payments,Failed,UI Bug,Medium,Alice,2025-08-04,13
+TC046,Payments,Failed,Security,High,David,2025-08-02,11
+TC047,Login,Passed,-,-,Alice,2025-08-06,15
+TC048,Dashboard,Passed,-,-,David,2025-08-05,10
+TC049,Dashboard,Passed,-,-,Alice,2025-08-07,10
+TC050,Login,Passed,-,-,Bob,2025-08-04,8
